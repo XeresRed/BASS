@@ -1,0 +1,96 @@
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Login.resources
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Menu.resources
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\CompraVenta.mdf
+c:\users\usuario\documents\visual studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\CompraVenta_log.ldf
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Compra.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Confirmar.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.PopUpAgregarCliente.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.ManejoUsuarios.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.PopUpAgregarUsuario.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.TomaFoto.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Controls.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Video.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Imaging.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Math.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Controls.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Video.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Imaging.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\AForge.Math.xml
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.ListaDeIngreso.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Navegador.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Inventario.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.PopUpCaracteristicas.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.AboutBox1.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Añadir.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\BASS.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\BASS.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\BASS.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\BASS.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\BASS.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Caractetisticas.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\Interop.Acrobat.dll
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.csproj.ResolveComReference.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Venta.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.VerCaracteristica.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.VistaMovimientos.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Reporte.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\BASS.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\bin\Debug\BASS.application
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\BASS.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\BASS.application
+C:\Users\usuario\Documents\Visual Studio 2017\Projects\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Gastos.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\CompraVenta.mdf
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\CompraVenta_log.ldf
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\BASS.exe.config
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\BASS.exe.manifest
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\BASS.application
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\BASS.exe
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\BASS.pdb
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Controls.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Video.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Imaging.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Math.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Controls.xml
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Video.xml
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.xml
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Imaging.xml
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\bin\Debug\AForge.Math.xml
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\Interop.Acrobat.dll
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.csproj.ResolveComReference.cache
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.AboutBox1.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Añadir.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Caractetisticas.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Compra.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Confirmar.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Gastos.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Inventario.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.ListaDeIngreso.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Login.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.ManejoUsuarios.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Menu.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Reporte.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Venta.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Navegador.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.PopUpAgregarCliente.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.PopUpAgregarUsuario.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.PopUpCaracteristicas.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.Properties.Resources.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.TomaFoto.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.VerCaracteristica.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.VistaMovimientos.resources
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\CompraVenta.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\BASS.exe.manifest
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\BASS.application
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\BASS.exe
+C:\Users\usuario\Desktop\Respositorio Git\BASS\CompraVenta\CompraVenta\obj\Debug\BASS.pdb
